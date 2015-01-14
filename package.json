@@ -1,0 +1,29 @@
+{
+  "name": "codius-rpc",
+  "version": "1.0.0",
+  "description": "Cross-contract RPC facility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codius/codius-rpc.git"
+  },
+  "keywords": [
+    "messaging",
+    "library",
+    "utility",
+    "inter-contract"
+  ],
+  "author": "Codius Team <info@codius.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codius/codius-rpc/issues"
+  },
+  "homepage": "https://github.com/codius/codius-rpc",
+  "dependencies": {
+    "async": "^0.9.0",
+    "jayson": "*"
+  }
+}
